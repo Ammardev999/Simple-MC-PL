@@ -1,0 +1,4 @@
+name: Simple
+version: '${project.version}'
+author: Ammar
+main: me.ammar.simple.Simple
